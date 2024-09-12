@@ -2,6 +2,6 @@
 Tools For Security Research and Analysis
 
 
-## TDSKILLER
+## TDSSKILLER
 Example:
 TDSSKiller.exe -accepteula -silent -dcsvc service name associated with the antivirus
