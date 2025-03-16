@@ -29,3 +29,19 @@ https://www.telerik.com/fiddler
 
 ## Flare VM
 https://github.com/mandiant/flare-vm
+
+## IDA
+https://hex-rays.com/ida-free
+
+## HxD - Freeware Hex Editor and Disk Editor
+https://mh-nexus.de/en/hxd/
+
+## pestudio
+https://www.winitor.com/download
+
+## Resource Hacker
+https://www.angusj.com/resourcehacker/
+
+## PE-bear
+https://github.com/hasherezade/pe-bear
+
